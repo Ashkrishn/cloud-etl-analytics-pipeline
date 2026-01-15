@@ -1,0 +1,9 @@
+# Ignore data files
+data/raw/
+data/processed/
+
+# Ignore AWS credentials
+.aws/
+
+# Ignore Python cache
+__pycache__/
